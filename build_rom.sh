@@ -1,6 +1,5 @@
 # sync rom
 repo init --depth=1 --no-repo-verify -u git://github.com/LineageOS/android.git -b lineage-21.0 -g default,-mips,-darwin,-notdefault
-git clone https://github.com/42n4/local_manifests_i9152.git --depth 1 -b cm-14.1 .repo/local_manifests
 repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j8
 
 # build rom
