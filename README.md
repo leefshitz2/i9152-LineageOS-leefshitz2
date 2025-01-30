@@ -1,1 +1,1 @@
-LineageOS 15.1 custom ROM for Samsung Galaxy Mega 5.8 Duos GT-I9152
+LineageOS 21 custom ROM for OnePlus Nord N100
